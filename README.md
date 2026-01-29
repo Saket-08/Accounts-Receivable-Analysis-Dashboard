@@ -1,2 +1,19 @@
-# Accounts-Receivable-Analysis-Dashboard
-Built an interactive Accounts Receivable dashboard using Excel to analyze overdue invoices, customer risk, and collection efficiency.  Key work includes AR aging analysis, calculation of finance KPIs (DSO, Overdue %, High-Risk AR), and visualization of overdue trends using pivot tables and slicers.
+## Excel Sales & Accounts Receivable Dashboard
+
+### Project Overview
+This project focuses on analyzing sales performance and accounts receivable data using Microsoft Excel.
+
+### Key Features
+- Interactive dashboards using Pivot Tables and Pivot Charts
+- Data cleaning and transformation using Power Query
+- KPI tracking including Revenue Trends, DSO, AR Ageing, and Overdue Risk
+- Business-focused reporting and insights
+
+### Tools Used
+- Microsoft Excel
+- Power Query
+- Pivot Tables & Charts
+
+### Files
+- RESUME PROJECT 1.xlsx – Sales Performance Dashboard
+- Accounts-Receivable.xlsx – AR Analytics Dashboard
