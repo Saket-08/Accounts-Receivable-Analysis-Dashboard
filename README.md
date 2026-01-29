@@ -3,6 +3,9 @@
 ### Project Overview
 This project focuses on analyzing sales performance and accounts receivable data using Microsoft Excel.
 
+### Business Objective
+To help finance teams monitor overdue receivables, identify high-risk customers, and improve collection efficiency through data-driven insights.
+
 ### Key Features
 - Interactive dashboards using Pivot Tables and Pivot Charts
 - Data cleaning and transformation using Power Query
