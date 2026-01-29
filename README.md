@@ -3,6 +3,9 @@
 ### Project Overview
 This project focuses on analyzing sales performance and accounts receivable data using Microsoft Excel.
 
+### Dashboard Preview
+![AR Dashboard](DASHBOARD.png)
+
 ### Business Objective
 To help finance teams monitor overdue receivables, identify high-risk customers, and improve collection efficiency through data-driven insights.
 
